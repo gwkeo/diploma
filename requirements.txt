@@ -5,15 +5,6 @@ pandas
 matplotlib
 scikit-learn
 jupyter
-
-# Optional only: current tick builds are unstable across Python versions
-# and the notebook no longer depends on tick for inference.
-# dill
-# pybind11
-# cmake
-# git+https://github.com/X-DataInitiative/tick.git@master
-
-# Optional I/O dependencies used by pandas for remote and parquet datasets
-fsspec
 huggingface_hub
+fsspec
 pyarrow
