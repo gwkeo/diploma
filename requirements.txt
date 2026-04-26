@@ -12,3 +12,8 @@ jupyter
 # pybind11
 # cmake
 # git+https://github.com/X-DataInitiative/tick.git@master
+
+# Optional I/O dependencies used by pandas for remote and parquet datasets
+fsspec
+huggingface_hub
+pyarrow
