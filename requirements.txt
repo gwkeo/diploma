@@ -1,0 +1,12 @@
+# Use Python 3.11 or 3.12 for tick.
+# PyPI release is stale; install current tick from GitHub.
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyter
+dill
+pybind11
+cmake
+git+https://github.com/X-DataInitiative/tick.git@master
