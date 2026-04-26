@@ -1,5 +1,7 @@
 # Use Python 3.11 or 3.12 for tick.
 # PyPI release is stale; install current tick from GitHub.
+# Linux/macOS build requires a working C++ toolchain and CMake.
+# On Ubuntu, install: build-essential cmake ninja-build python3-dev git
 numpy
 scipy
 pandas
