@@ -17,3 +17,5 @@ pyarrow
 prophet
 wordcloud
 setuptools
+umap-learn
+hdbscan
