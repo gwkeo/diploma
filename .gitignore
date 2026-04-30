@@ -1,6 +1,6 @@
 .venv
 .env
-*.png
 __pycache__
 .DS_Store
 russian-news-telegram-dataset.csv
+logs/
